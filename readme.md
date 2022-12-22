@@ -136,16 +136,14 @@ Cómo escribir ciertos símbolos como \* o \#, sin que Markdown los interprete p
 # Escritura matemática
 ___  
 En línea encerrando la fórmula entre signos de $ En párrafos centrados, encerrando las fómula entre dos signos de $$  
-* Formulas en línea: (a + b)² = a² + b² + 2ab  
+* Formulas en línea: $$(a + b)^2 = a^2 + b^2 + 2ab$$ 
 * Formulas centradas  
-  $$ a² - b² = (a + b)  (a - b)$$  
+  $$a^2 - b^2 = (a + b)\cdot(a - b)$$  
 * Radicales  
-$$ \sqrt{a²-b²} $$
+$$\sqrt{a^2-b^2}$$
 * Fracciones:  
-$$ x=\frac{-b \pm \sqrt{b² - 4ac}}{2a}$$  
+$$x=\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$  
 * Paréntesis grande:
 $$\left(\sqrt{x²}\right)^2$$  
 * Colores:  
-$$
-\color {yellow}{A}\color {black}aBb123
-$$
+$$\color {yellow}{A}\color {black}aBb123$$
